@@ -1,0 +1,35 @@
+{
+  "name": "cypress-practice",
+  "version": "1.0.0",
+  "description": "Cypress Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskerkamshetty/cypress-practice.git"
+  },
+  "keywords": [
+    "Automation",
+    "Cypress",
+    "Automation",
+    "Web",
+    "Application",
+    "Automation"
+  ],
+  "author": "Bhasker Kamshetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaskerkamshetty/cypress-practice/issues"
+  },
+  "homepage": "https://github.com/bhaskerkamshetty/cypress-practice#readme",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  },
+  "dependencies": {
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1",
+    "node-xlsx": "^0.24.0"
+  }
+}
