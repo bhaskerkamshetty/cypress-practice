@@ -1,5 +1,5 @@
 console.log("HELLO"); // To display Text or String
-console.log("WORLD"); // To display Text or String
+console.log('WORLD'); // To display Text or String
 console.log("JavaScript's Example"); // To display Text or String with single quote
 console.log('JavaScript"s Example'); // To display Text or String with double quote
 console.log(`"JavaScript's Example"`); // To display Text or String with single quote and double qoute
